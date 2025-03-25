@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2d6a14ae-3be1-4fa3-aadd-b1993bd66efa" name="b24-dev.ru" url="https://b24-dev.ru/">
+        <fileTransfer rootFolder="/home/bitrix/ext_www/b24-dev.ru" accessType="SFTP" host="217.114.6.243" port="22" sshConfigId="370478ca-389e-4017-b00e-ea21ec80b461" sshConfig="root@217.114.6.243:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
